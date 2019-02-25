@@ -1,2 +1,3 @@
 # DMR_SEARCH
-DMR Assignment
+
+Open and complete the instructions in the jupyter python notebook attached. https://jupyter.org/install
